@@ -21,5 +21,8 @@ body{
     position: absolute;
     z-index: -1;
     background-image: url("images/nature.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
