@@ -4,9 +4,7 @@ load = 0
 
 loadText.innerText = "5%"
 
-blurring()
-blurring()
-blurring()
+int = setInterval(blurring, 30)
 
 function blurring() {
     load++
