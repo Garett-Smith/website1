@@ -161,7 +161,7 @@ modal-header h3 {
   margin: 0;
   border-bottom: 1px solid #333;
 }
-modal-content {
+.modal-content {
   padding: 15px;
 }
 
