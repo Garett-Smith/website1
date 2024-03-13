@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+  }
 body {
     background-color: gray;
     height: 100vh;
@@ -7,18 +10,3 @@ body {
     margin: 0;
 }
 
-.btn {
-    background-color: yellow;
-    font-size: 1.2rem;
-    padding: 1.5rem 3rem;
-    margin: 1rem;
-    border-radius: 5px;
-    border: none;
-    color: black;
-    cursor: pointer;
-
-}
-
-.btn:hover {
-    opacity: 0.9;
-}
