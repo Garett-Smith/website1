@@ -20,6 +20,6 @@ body {
     color: black;
     cursor: pointer;
 }
-.head {
-    background-color: gray;
+btn:hover {
+    opacity: 0.9;
 }
