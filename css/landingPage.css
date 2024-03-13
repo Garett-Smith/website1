@@ -15,7 +15,17 @@ body {
   margin: 0;
   transition: transform 0.3s ease;
 }
-
+.HomePage {
+  height: 0px;
+  top: 10px;
+  left: 0px;
+  right: 10px;
+  position: absolute;
+  font-size: 24px;
+background-color: white;
+border: 0;
+z-index: 100;
+}
 body.show-nav {
   transform: translateX(200px);
 }
