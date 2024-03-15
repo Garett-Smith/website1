@@ -85,7 +85,7 @@ body {
     color: black;
     cursor: pointer;
 }
-.box6{
+.panel{
     position: absolute;
     top: 600px;
     background-color: lightgreen;
