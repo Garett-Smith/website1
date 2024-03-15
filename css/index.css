@@ -7,7 +7,16 @@ body {
     justify-content: center;
     margin: 0;
 }
-.btn {
+.Title{
+    height: 0px;
+    top: 20px;
+    color: black;
+    position: absolute;
+    font-size: 30px;
+ background-color: white;
+ border: 0;
+}
+.links {
     background-color: yellow;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
