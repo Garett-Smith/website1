@@ -97,20 +97,5 @@ body {
     color: black;
     cursor: pointer;
 }
-.panel{
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 80vh;
-    border-radius: 50px;
-    color: white;
-    cursor: pointer;
-    flex:0.5;
-    margin: 10px;
-    position: relative;
-    transition: flex 1s ease-in;
-}
-.expanded {
-    position: absolute
-    width:200px;
-}
+
+
