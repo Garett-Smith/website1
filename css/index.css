@@ -25,7 +25,7 @@ body {
  background-color: green;
  border: 0;
 }
-.links {
+.box1{
     background-color: lightgreen;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
@@ -35,6 +35,57 @@ body {
     color: black;
     cursor: pointer;
 }
+.box2{
+    background-color: lightgreen;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.box3{
+    background-color: lightgreen;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.box4{
+    background-color: lightgreen;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.box5{
+    background-color: lightgreen;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.box6{
+    background-color: lightgreen;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+
 btn:hover {
     opacity: 0.9;
 }
