@@ -1,6 +1,6 @@
 
 body {
-    background-color: gray;
+    background-color: lightblue;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -22,11 +22,11 @@ body {
     color: black;
     position: absolute;
     font-size: 20px;
- background-color: white;
+ background-color: green;
  border: 0;
 }
 .links {
-    background-color: yellow;
+    background-color: lightgreen;
     font-size: 1.2rem;
     padding: 1.5rem 3rem;
     margin: 1rem;
