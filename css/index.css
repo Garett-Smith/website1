@@ -98,6 +98,6 @@ body {
     cursor: pointer;
 }
 
-btn:hover {
-    opacity: 0.9;
+.expanded {
+    
 }
