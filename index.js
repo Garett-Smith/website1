@@ -1,4 +1,15 @@
-let box1 = document.querySelector('.box1');
-box1.addEventListener('click', function() {
-    box1.classList.toggle('expanded');
-});
+panels = document.querySelectorAll('.panel')
+
+panels.forEach(panel => {
+    panel.addEventListener('click', () => {
+        removeActiveClasses()
+        panel.classList.add('active')
+    })
+})
+
+function removeActiveClasses(){
+    panels.forEach(panel => {
+        panel.classList.remove('active')
+    })
+}
+
