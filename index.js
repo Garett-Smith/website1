@@ -1,4 +1,4 @@
-document.getElementById('button1').addEventListener('click', function() {
-    document.getElementById('myText').style.display = 'block';
-});
+function showText() {
+    document.getElementById("myText").style.display = "block";
+}
 
